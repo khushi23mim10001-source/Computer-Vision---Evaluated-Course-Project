@@ -1,4 +1,8 @@
-# Computer-Vision---Evaluated-Course-Projectgit clone https://github.com/khushijain/study-planner.git
-cd study-planner
-npm install
-npm start
+project-folder/
+│── dataset/
+│── models/
+│── images/
+│── detect_mask.py
+│── train_model.py
+│── requirements.txt
+│── README.md
